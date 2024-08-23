@@ -1,0 +1,19 @@
+nums = input("nums: ")
+nums = ...
+
+total = 0
+max_num = ...
+min_num = ...
+for i in range(len(nums)):
+    ...
+
+    if num ... :
+        ...
+    if num ... :
+        ...
+
+mean = total / len(nums)
+print(f"總和: {total}")
+print(f"平均: {mean}")
+print(f"最大: {max_num}")
+print(f"最小: {min_num}")
